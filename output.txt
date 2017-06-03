@@ -1,0 +1,22 @@
+1. The 3 most popular articles are:
+
+        Candidate is jerk, alleges rival ---> 338647 views
+        Bears love berries, alleges bear ---> 253801 views
+        Bad things gone, say good people ---> 170098 views
+
+2. Most popular article authors of
+all time are:
+
+        Rudolf von Treppenwitz ---> 338647 views
+        Ursula La Multa ---> 253801 views
+        Anonymous Contributor ---> 170098 views
+        Ursula La Multa ---> 84906 views
+        Rudolf von Treppenwitz ---> 84810 views
+        Markoff Chaney ---> 84557 views
+        Ursula La Multa ---> 84504 views
+        Ursula La Multa ---> 84383 views
+
+3. Days with more than 1% of request that
+lead to an error:
+
+        JULY     17,2016 ---> 12.65 %
